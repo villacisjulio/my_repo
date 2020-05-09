@@ -1,0 +1,7 @@
+#Documento inicial de Git
+- Puedo probar lo indicado por el profesor
+Veamos que pasa
+Auto Julio Villaics Guevara
+Version 0.0
+Fecha de creacion 9/may/2020
+HOra:10:44
